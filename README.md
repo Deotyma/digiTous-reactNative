@@ -1,1 +1,1 @@
-React Natifve exerices
+React Native exerices
